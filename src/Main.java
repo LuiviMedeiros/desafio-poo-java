@@ -49,7 +49,6 @@ public class Main {
         System.out.println("Conteudos Inscritos Camila " + devCamila.getConteudosInscritos());
         devCamila.progredir();
         devCamila.progredir();
-        devCamila.progredir();
         System.out.println(".");
         System.out.println("Conteudos Inscritos Camila " + devCamila.getConteudosInscritos());
         System.out.println("Conteudos Concluidos Camila " + devCamila.getConteudosConcluidos());
